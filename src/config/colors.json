@@ -1,0 +1,10 @@
+{
+  "YELLOW": {
+    "background": "yellow",
+    "color": "black"
+  },
+  "GREEN": {
+    "background": "green",
+    "color": "white"
+  }
+}
